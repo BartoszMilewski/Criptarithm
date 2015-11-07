@@ -1,4 +1,4 @@
-module Solver where
+module Main where
 
 import Control.Monad (guard, liftM, join)
 import Control.Monad.Trans.State
